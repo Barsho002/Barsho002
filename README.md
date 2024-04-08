@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Barsho002
-- 👀 I’m interested in different programming languages like c++,python,java,SQL and Dart
-- 🌱 I’m currently learning SQL and Dart
+- 👀 I’m interested in different programming languages like Python, Java, SQL and R
+- 🌱 I’m currently learning SQL and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
